@@ -1,0 +1,2 @@
+# stajyer-deneme
+ilk test
